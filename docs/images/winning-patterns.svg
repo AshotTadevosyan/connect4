@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<title id="title">Three ways to win Connect Four</title><desc id="desc">Illustrated legal games showing red horizontal, vertical, and diagonal winning lines. Winning discs have white outlines.</desc>
+<rect width="1200" height="490" rx="24" fill="#f2f2eb"/>
+<text x="36" y="48" font-family="Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#203349">Make your connection.</text>
+<text x="36" y="93" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#203349">Horizontal</text>
+<text x="36" y="118" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#63717b">Four across a row</text>
+<rect x="36" y="138" width="348" height="300" rx="19" fill="#294b62"/>
+<circle cx="66" cy="408" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="114" cy="408" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="162" cy="408" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="210" cy="408" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="258" cy="408" r="19" fill="#182e40"/>
+<circle cx="306" cy="408" r="19" fill="#182e40"/>
+<circle cx="354" cy="408" r="19" fill="#182e40"/>
+<circle cx="66" cy="360" r="19" fill="#ffc23d"/>
+<circle cx="114" cy="360" r="19" fill="#ffc23d"/>
+<circle cx="162" cy="360" r="19" fill="#ffc23d"/>
+<circle cx="210" cy="360" r="19" fill="#182e40"/>
+<circle cx="258" cy="360" r="19" fill="#182e40"/>
+<circle cx="306" cy="360" r="19" fill="#182e40"/>
+<circle cx="354" cy="360" r="19" fill="#182e40"/>
+<circle cx="66" cy="312" r="19" fill="#182e40"/>
+<circle cx="114" cy="312" r="19" fill="#182e40"/>
+<circle cx="162" cy="312" r="19" fill="#182e40"/>
+<circle cx="210" cy="312" r="19" fill="#182e40"/>
+<circle cx="258" cy="312" r="19" fill="#182e40"/>
+<circle cx="306" cy="312" r="19" fill="#182e40"/>
+<circle cx="354" cy="312" r="19" fill="#182e40"/>
+<circle cx="66" cy="264" r="19" fill="#182e40"/>
+<circle cx="114" cy="264" r="19" fill="#182e40"/>
+<circle cx="162" cy="264" r="19" fill="#182e40"/>
+<circle cx="210" cy="264" r="19" fill="#182e40"/>
+<circle cx="258" cy="264" r="19" fill="#182e40"/>
+<circle cx="306" cy="264" r="19" fill="#182e40"/>
+<circle cx="354" cy="264" r="19" fill="#182e40"/>
+<circle cx="66" cy="216" r="19" fill="#182e40"/>
+<circle cx="114" cy="216" r="19" fill="#182e40"/>
+<circle cx="162" cy="216" r="19" fill="#182e40"/>
+<circle cx="210" cy="216" r="19" fill="#182e40"/>
+<circle cx="258" cy="216" r="19" fill="#182e40"/>
+<circle cx="306" cy="216" r="19" fill="#182e40"/>
+<circle cx="354" cy="216" r="19" fill="#182e40"/>
+<circle cx="66" cy="168" r="19" fill="#182e40"/>
+<circle cx="114" cy="168" r="19" fill="#182e40"/>
+<circle cx="162" cy="168" r="19" fill="#182e40"/>
+<circle cx="210" cy="168" r="19" fill="#182e40"/>
+<circle cx="258" cy="168" r="19" fill="#182e40"/>
+<circle cx="306" cy="168" r="19" fill="#182e40"/>
+<circle cx="354" cy="168" r="19" fill="#182e40"/>
+<text x="426" y="93" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#203349">Vertical</text>
+<text x="426" y="118" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#63717b">Four in one column</text>
+<rect x="426" y="138" width="348" height="300" rx="19" fill="#294b62"/>
+<circle cx="456" cy="408" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="504" cy="408" r="19" fill="#ffc23d"/>
+<circle cx="552" cy="408" r="19" fill="#182e40"/>
+<circle cx="600" cy="408" r="19" fill="#182e40"/>
+<circle cx="648" cy="408" r="19" fill="#182e40"/>
+<circle cx="696" cy="408" r="19" fill="#182e40"/>
+<circle cx="744" cy="408" r="19" fill="#182e40"/>
+<circle cx="456" cy="360" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="504" cy="360" r="19" fill="#ffc23d"/>
+<circle cx="552" cy="360" r="19" fill="#182e40"/>
+<circle cx="600" cy="360" r="19" fill="#182e40"/>
+<circle cx="648" cy="360" r="19" fill="#182e40"/>
+<circle cx="696" cy="360" r="19" fill="#182e40"/>
+<circle cx="744" cy="360" r="19" fill="#182e40"/>
+<circle cx="456" cy="312" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="504" cy="312" r="19" fill="#ffc23d"/>
+<circle cx="552" cy="312" r="19" fill="#182e40"/>
+<circle cx="600" cy="312" r="19" fill="#182e40"/>
+<circle cx="648" cy="312" r="19" fill="#182e40"/>
+<circle cx="696" cy="312" r="19" fill="#182e40"/>
+<circle cx="744" cy="312" r="19" fill="#182e40"/>
+<circle cx="456" cy="264" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="504" cy="264" r="19" fill="#182e40"/>
+<circle cx="552" cy="264" r="19" fill="#182e40"/>
+<circle cx="600" cy="264" r="19" fill="#182e40"/>
+<circle cx="648" cy="264" r="19" fill="#182e40"/>
+<circle cx="696" cy="264" r="19" fill="#182e40"/>
+<circle cx="744" cy="264" r="19" fill="#182e40"/>
+<circle cx="456" cy="216" r="19" fill="#182e40"/>
+<circle cx="504" cy="216" r="19" fill="#182e40"/>
+<circle cx="552" cy="216" r="19" fill="#182e40"/>
+<circle cx="600" cy="216" r="19" fill="#182e40"/>
+<circle cx="648" cy="216" r="19" fill="#182e40"/>
+<circle cx="696" cy="216" r="19" fill="#182e40"/>
+<circle cx="744" cy="216" r="19" fill="#182e40"/>
+<circle cx="456" cy="168" r="19" fill="#182e40"/>
+<circle cx="504" cy="168" r="19" fill="#182e40"/>
+<circle cx="552" cy="168" r="19" fill="#182e40"/>
+<circle cx="600" cy="168" r="19" fill="#182e40"/>
+<circle cx="648" cy="168" r="19" fill="#182e40"/>
+<circle cx="696" cy="168" r="19" fill="#182e40"/>
+<circle cx="744" cy="168" r="19" fill="#182e40"/>
+<text x="816" y="93" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#203349">Diagonal</text>
+<text x="816" y="118" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#63717b">Four along a diagonal</text>
+<rect x="816" y="138" width="348" height="300" rx="19" fill="#294b62"/>
+<circle cx="846" cy="408" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="894" cy="408" r="19" fill="#ffc23d"/>
+<circle cx="942" cy="408" r="19" fill="#ffc23d"/>
+<circle cx="990" cy="408" r="19" fill="#ffc23d"/>
+<circle cx="1038" cy="408" r="19" fill="#fa5752"/>
+<circle cx="1086" cy="408" r="19" fill="#fa5752"/>
+<circle cx="1134" cy="408" r="19" fill="#182e40"/>
+<circle cx="846" cy="360" r="19" fill="#182e40"/>
+<circle cx="894" cy="360" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="942" cy="360" r="19" fill="#ffc23d"/>
+<circle cx="990" cy="360" r="19" fill="#ffc23d"/>
+<circle cx="1038" cy="360" r="19" fill="#fa5752"/>
+<circle cx="1086" cy="360" r="19" fill="#182e40"/>
+<circle cx="1134" cy="360" r="19" fill="#182e40"/>
+<circle cx="846" cy="312" r="19" fill="#182e40"/>
+<circle cx="894" cy="312" r="19" fill="#182e40"/>
+<circle cx="942" cy="312" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="990" cy="312" r="19" fill="#ffc23d"/>
+<circle cx="1038" cy="312" r="19" fill="#182e40"/>
+<circle cx="1086" cy="312" r="19" fill="#182e40"/>
+<circle cx="1134" cy="312" r="19" fill="#182e40"/>
+<circle cx="846" cy="264" r="19" fill="#182e40"/>
+<circle cx="894" cy="264" r="19" fill="#182e40"/>
+<circle cx="942" cy="264" r="19" fill="#182e40"/>
+<circle cx="990" cy="264" r="19" fill="#fa5752" stroke="white" stroke-width="3"/>
+<circle cx="1038" cy="264" r="19" fill="#182e40"/>
+<circle cx="1086" cy="264" r="19" fill="#182e40"/>
+<circle cx="1134" cy="264" r="19" fill="#182e40"/>
+<circle cx="846" cy="216" r="19" fill="#182e40"/>
+<circle cx="894" cy="216" r="19" fill="#182e40"/>
+<circle cx="942" cy="216" r="19" fill="#182e40"/>
+<circle cx="990" cy="216" r="19" fill="#182e40"/>
+<circle cx="1038" cy="216" r="19" fill="#182e40"/>
+<circle cx="1086" cy="216" r="19" fill="#182e40"/>
+<circle cx="1134" cy="216" r="19" fill="#182e40"/>
+<circle cx="846" cy="168" r="19" fill="#182e40"/>
+<circle cx="894" cy="168" r="19" fill="#182e40"/>
+<circle cx="942" cy="168" r="19" fill="#182e40"/>
+<circle cx="990" cy="168" r="19" fill="#182e40"/>
+<circle cx="1038" cy="168" r="19" fill="#182e40"/>
+<circle cx="1086" cy="168" r="19" fill="#182e40"/>
+<circle cx="1134" cy="168" r="19" fill="#182e40"/>
+<text x="36" y="471" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#63717b">Gameplay illustrations · Red moves first · Discs fall to the lowest open space · White rings mark the winning four</text>
+</svg>

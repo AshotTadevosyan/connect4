@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+.DS_Store
+ConnectFour.app/
+
+# Local specification; never publish
+/connect4.md
